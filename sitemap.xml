@@ -1,15 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://rmnpires.github.com/blog/archives/</loc>
-        <lastmod>2013-03-15T00:39:22-03:00</lastmod>
+        <loc>http://ramonPires.github.com/blog/2013/03/15/away/</loc>
+        <lastmod>2013-03-15T00:52:17-03:00</lastmod>
     </url>
     <url>
-        <loc>http://rmnpires.github.com/</loc>
-        <lastmod>2013-03-15T00:39:22-03:00</lastmod>
+        <loc>http://ramonPires.github.com/blog/archives/</loc>
+        <lastmod>2013-03-15T00:52:17-03:00</lastmod>
     </url>
     <url>
-        <loc>http://rmnpires.github.com/robots.txt</loc>
+        <loc>http://ramonPires.github.com/</loc>
+        <lastmod>2013-03-15T00:52:17-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ramonPires.github.com/new-page/</loc>
+        <lastmod>2013-03-15T10:48:10-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ramonPires.github.com/robots.txt</loc>
         <lastmod>2013-03-15T00:39:22-03:00</lastmod>
     </url>
 </urlset>
